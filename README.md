@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Moqadas;I'm+Full+Stack+Web+Developer;Nice+to+meet+you!;Sphinx+of+black+quartz%2C+judge+my+vow" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+there+;I'm+Moqadas;I'm+Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" /></a>
 - 🔭 I’m currently working on ...MY Portfoli Website
 - 🌱 I’m currently learning ...Senior Web Developer
 - 🤔 I’m looking for help with ...Bullding a Full Functional Website
