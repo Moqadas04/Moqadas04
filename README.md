@@ -18,35 +18,20 @@ Here are some ideas to get you started:
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
         <a
-          href="/imranmalakzai/imranmalakzai"
+          href="https://github.com/Moqadas04"
           class="no-underline Link--primary"
-        >imranmalakzai</a><span
+        >Moqadas</a><span
           class="color-fg-muted d-inline-block"
           style="padding:0px 2px;"
         >/</span>README<span
          class="color-fg-muted"
         >.md</span>
       </div>
-
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">
-  <a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/968f243f20f38b428bc0b64fa98943862c6f5746da339d046b8b31d7788de952/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b49276d2b496d72616e2b4d616c616b7a61692e2e3b46756c6c2d537461636b2b446576656c6f7065723b4e6963652b746f2b6d6565742b796f75212663656e7465723d747275652673697a653d333026636f6c6f723d666534323865" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Imran+Malakzai..;Full-Stack+Developer;Nice+to+meet+you!&amp;center=true&amp;size=30&amp;color=fe428e" style="max-width: 100%;">
-  </a>
-</h1><a id="user-content---------" class="anchor" aria-label="Permalink: " href="#--------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU5NDc0NDAsIm5iZiI6MTc2NTk0NzE0MCwicGF0aCI6Ii8xMzYyMjMwNi8zNzM5NjQ3NTUtNzU0ZjdmNDgtNTdiNC00YjhmLTkwNTQtYjIxZWY3ODAzNjk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE3VDA0NTIyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjMWFlMGIzOTcwNDQ1MjNmZmE4ZjA3ZTdiMzYzOGYwN2E1Y2U0MTExZTYzYWQ1NmM0ODliZDIwZWNiMjFhOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tuUQTSUr3_8sM5xCxhpsR9uaOKDJXg7ccWnXL0lBpU0"><img src="https://private-user-images.githubusercontent.com/13622306/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU5NDc0NDAsIm5iZiI6MTc2NTk0NzE0MCwicGF0aCI6Ii8xMzYyMjMwNi8zNzM5NjQ3NTUtNzU0ZjdmNDgtNTdiNC00YjhmLTkwNTQtYjIxZWY3ODAzNjk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE3VDA0NTIyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjMWFlMGIzOTcwNDQ1MjNmZmE4ZjA3ZTdiMzYzOGYwN2E1Y2U0MTExZTYzYWQ1NmM0ODliZDIwZWNiMjFhOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tuUQTSUr3_8sM5xCxhpsR9uaOKDJXg7ccWnXL0lBpU0" width="300px" align="right" alt="A professional animation coder gif" data-animated-image="" style="max-width: 100%;"></a>
 </div>
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💫 About Me:</h1><a id="user-content--about-me" class="anchor" aria-label="Permalink: 💫 About Me:" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">💡 I'm <strong>Imran Malakzai</strong>, a web programmer.<br>
-🔭 I’m currently working on <a href="https://github.com/imranmalakzai/HRMS-Project">HRMS Project</a><br>
-👀 My goal is to grow into a Senior Software Engineer.<br>
-🌱 Currently deep-diving into the <strong>MERN Stack</strong>.<br>
-💬 Ask me about <strong>PHP, Laravel, Python Django, Odoo, ERP, React JS, Node JS, Next JS</strong>.<br>
-📫 Reach me at: <strong><a href="mailto:afghanimran92@gmail.com">afghanimran92@gmail.com</a></strong><br>
-💞️ Open to collaborate on exciting <strong>Open Source / Startup Projects</strong>.<br>
-⚡ Fun fact: I am also a <strong>Network Engineer</strong>.<br>
-<br></p>
+
+
 <div align="center" dir="auto">
   <themed-picture data-catalyst-inline="true"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -57,15 +42,9 @@ Here are some ideas to get you started:
 <hr>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/imran-malakzai-0846b4360/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://stackoverflow.com/users/28297431/imranmalakzai" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://dev.to/imranmalakzai" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="mailto:afghanimran92@gmail.com"><img align="center" src="https://camo.githubusercontent.com/06b684cd2b3cbff7c806654d673693fbb2a52f3faf560eb6e416fc49a2a46439/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d676d61696c2d706e672f6c6f676f2d676d61696c2d706e672d676d61696c2d69636f6e2d646f776e6c6f61642d706e672d616e642d766563746f722d312e706e67" height="30" width="40" data-canonical-src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://x.com/imranmalakzai" rel="nofollow"><img align="center" src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://www.instagram.com/imranmalakzai" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="www.linkedin.com/in/moqadas-kliwal-76204a3a0" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="mailto:moqadaskliwal506@gmail.com"><img align="center" src="https://camo.githubusercontent.com/06b684cd2b3cbff7c806654d673693fbb2a52f3faf560eb6e416fc49a2a46439/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d676d61696c2d706e672f6c6f676f2d676d61696c2d706e672d676d61696c2d69636f6e2d646f776e6c6f61642d706e672d616e642d766563746f722d312e706e67" height="30" width="40" data-canonical-src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 <a href="https://www.facebook.com/profile.php?id=100028237344155" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>
-<a href="https://t.me/imranmalakzai" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/4a0087b29b3c1c6d488ba61d3c0258c62edbe8dd3edbe093f9683227d3b30731/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f6e756c6c2f74656c656772616d2d6170702e706e67" height="35" width="35" data-canonical-src="https://img.icons8.com/fluency/48/null/telegram-app.png" style="max-width: 100%; height: auto; max-height: 35px;"></a>
-<a href="https://wa.me/93789399338" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="40" width="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 </p>
 <hr>
 <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💻 Tech Stack:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -78,22 +57,19 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 <a href="https://www.postgresql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 <a href="https://www.microsoft.com/sql-server" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://redis.io/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 
-</p><p dir="auto"><a href="https://www.docker.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://git-scm.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/830ab0a04d79ea91499fd105d265e582bf1e2cdb51a678ba28ee8dfd5031d19b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://postman.com" rel="nofollow"><img src="https://camo.githubusercontent.com/8c088e69ac55dcd5e90e968d47df51efa1c7bec7db5d0a2dee3b7f59adebc237/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a></p>
+
+</p>
+<img src="https://camo.githubusercontent.com/830ab0a04d79ea91499fd105d265e582bf1e2cdb51a678ba28ee8dfd5031d19b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+
 
 <p dir="auto"><a href="https://www.javascript.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+
 <a href="https://reactjs.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://nodejs.org" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://nextjs.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 <a href="https://www.mongodb.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://laravel-livewire.com/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/73666563?v=4" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
-<a href="https://sass-lang.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a>
+
 <a href="https://getbootstrap.com" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"></a></p>
 <p dir="auto"></p>
 <hr>
